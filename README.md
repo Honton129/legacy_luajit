@@ -1,6 +1,6 @@
-# Fork from NebulaZorua's Repository
-# This library is meant to work on FNF Psych Engine versions prior to 0.7.
-# If you need a library to compile those versions, use [superpowers04](https://github.com/superpowers04/linc_luajit/tree/1906c4a96f6bb6df66562b3f24c62f4c5bba14a7) version.
+# A fork from [NebulaZorua's](https://github.com/nebulazorua/linc_luajit/tree/master) repository.
+## This library is meant to work on FNF Psych Engine versions prior to 0.7.
+## If you need a library to compile those versions, use [superpowers04](https://github.com/superpowers04/linc_luajit/tree/1906c4a96f6bb6df66562b3f24c62f4c5bba14a7) version.
 
 # linc/LuaJIT
 Haxe/hxcpp @:native bindings for [LuaJIT](http://luajit.org/).
