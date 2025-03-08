@@ -1,10 +1,10 @@
 {
-	"name": "linc_luajit",
-	"url": "https://github.com/nebulazorua/linc_luajit",
+	"name": "legacy_luajit",
+	"url": "https://github.com/Honton129/legacy_luajit",
 	"license": "MIT",
-	"tags": ["lua","luajit","linc","bindings"],
-	"description": "Haxe/hxcpp @:native bindings for LuaJIT.",
+	"tags": ["lua","luajit","linc","bindings","legacy"],
+	"description": "Legacy version of the Haxe/hxcpp LuaJIT library made exclusively to make FNF Psych Engine 0.4 - 0.6 compile.",
 	"version": "0.0.6",
 	"releasenote": "",
-	"contributors": ["RudenkoArts", "NebulaZorua"]
+	"contributors": ["RudenkoArts", "NebulaZorua", "Honton129"]
 }
