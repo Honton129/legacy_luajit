@@ -1,8 +1,6 @@
-# DEPRACTED! YOU SHOULD USE [SUPERPOWESR04](https://github.com/superpowers04/linc_luajit)'S FORK WHEN YOU CAN!
-
-I havent touched this in forever and super's works on more platforms
-
-
+# Fork from NebulaZorua's Repository
+# This library is meant to work on FNF Psych Engine versions prior to 0.7.
+# If you need a library to compile those versions, use [superpowers04](https://github.com/superpowers04/linc_luajit/tree/1906c4a96f6bb6df66562b3f24c62f4c5bba14a7) version.
 
 # linc/LuaJIT
 Haxe/hxcpp @:native bindings for [LuaJIT](http://luajit.org/).
